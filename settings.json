@@ -29,7 +29,7 @@
         "editor.defaultFormatter": "xaver.clang-format"
     },
     "trailing-spaces.trimOnSave": true,
-    "terminal.integrated.fontFamily": "Noto Mono",
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono",
     "terminal.integrated.fontSize": 13,
     "editor.fontSize": 13,
     "editor.formatOnSave": true,
