@@ -29,10 +29,10 @@
         "editor.defaultFormatter": "xaver.clang-format"
     },
     "trailing-spaces.trimOnSave": true,
-    "terminal.integrated.fontFamily": "DejaVu Sans Mono",
+    "terminal.integrated.fontFamily": "Noto Mono",
     "terminal.integrated.fontSize": 13,
     "editor.fontSize": 13,
     "editor.formatOnSave": true,
     "editor.cursorBlinking": "expand",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "right"
 }
