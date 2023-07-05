@@ -2,37 +2,23 @@
     "explorer.confirmDelete": false,
     "git.autofetch": true,
     "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Default Dark Modern",
     "editor.renderWhitespace": "none",
     "terminal.integrated.fontSize": 13,
-    "files.associations": {
-        "*.sql": "sql"
-    },
-    "[sql]": {},
-    "sqltools.connections": [
-        {
-            "askForPassword": false,
-            "database": "systeminfo_cms",
-            "dialect": "MySQL",
-            "name": "systeminfo",
-            "port": 3306,
-            "server": "localhost",
-            "username": "root"
-        }
-    ],
     "explorer.confirmDragAndDrop": false,
     "http.proxySupport": "off",
     "arduino.defaultBaudRate": 9600,
     "cmake.configureOnOpen": true,
-    "editor.cursorBlinking": "expand",
     "[cpp]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
     "trailing-spaces.trimOnSave": true,
     "terminal.integrated.fontFamily": "DejaVu Sans Mono",
-    "terminal.integrated.fontSize": 13,
     "editor.fontSize": 13,
-    "editor.formatOnSave": true,
     "editor.cursorBlinking": "expand",
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
+    "arduino.useArduinoCli": true,
+    "git.confirmSync": false,
+    "C_Cpp.clang_format_path": "~/.vscode/clang-format",
+    "editor.formatOnSave": true
 }
